@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SocialDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="button_photo">Photo</string>
+    <string name="button_select_image">Select Image</string>
+    <string name="button_take_image">Take Image</string>
+</resources>
